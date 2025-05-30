@@ -39,7 +39,7 @@ img {
 }
 
 .skip-link:focus{
-  background-color: blue;
+  background-color: lightskyblue;
   color: whitesmoke;
   position: static;
   width: auto;
